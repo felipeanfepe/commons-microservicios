@@ -1,4 +1,4 @@
-package com.commons_microservicios;
+package com.microservicios.commons;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
